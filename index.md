@@ -8,14 +8,13 @@ I'm a Data Science & Machine Learning Enthusiast based in Indonesia.
 
 <style>
 .button-custom {
-  padding: 10px 25px;
-  font-size: 16px;
+  padding: 10px 10px;
+  font-size: 14px;
   border: 2px solid #007acc;
   background-color: white;
   color: #007acc;
   border-radius: 8px;
   cursor: pointer;
-  transition: 0.3s;
   text-decoration: none;
   display: inline-block;
 }
