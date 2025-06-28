@@ -6,7 +6,9 @@ title: Home
 # Hi, I'm Rizal Gibran Aldrin 👋  
 I'm a Data Science and Machine Learning Enthusiast from Indonesia. I enjoy solving business problems using data, building predictive models, and creating interactive data visualizations. I’m passionate about Data Science, Machine Learning, and impactful data-driven solutions.
 
-<a href="./projects.html" class="button-custom">View My Projects</a>
+<div style="text-align: center; margin-bottom: 40px;">
+  <a href="./projects.html" class="button-custom">🔍 View My Projects</a>
+</div>
 
 ---
 
@@ -77,15 +79,14 @@ In addition to that, I actively explore MLOps, monitoring ML systems, and deploy
 <!-- STYLE CUSTOM BUTTON -->
 <style>
 .button-custom {
-  padding: 12px 16px;
+  padding: 12px 15px;
   font-size: 14px;
-  border: 2px solid #007acc;
+  border: 1px solid #007acc;
   background-color: white;
   color: #007acc;
   border-radius: 8px;
   cursor: pointer;
   text-decoration: none;
-  font-weight: bold;
 }
 
 .button-custom:hover {
