@@ -28,7 +28,7 @@ In addition to that, I actively explore MLOps, monitoring ML systems, and deploy
 
 ### Get in touch with me
 
-<div style="text-align: center; margin-top: 25px;">
+<div style="text-align: left; margin-top: 25px;">
 
   <!-- Email -->
   <a href="mailto:gibran.aldrin.p@gmail.com" style="margin: 0 20px;" title="Email">
