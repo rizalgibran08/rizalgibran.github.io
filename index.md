@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Home
+
 ---
 
 # Hi, I'm Rizal Gibran👋  
+
+![myphoto](https://github.com/user-attachments/assets/f8d60c65-3075-4895-9eed-0af8d7902271)
+
 I'm a Data Science, Machine Learning and AI Enthusiast from Indonesia. I enjoy solving business problems using data, building predictive models, and creating interactive data visualizations. I’m passionate about Data Science, Machine Learning, AI, and impactful data-driven solutions.
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 40px;">
@@ -83,6 +86,7 @@ In addition to that, I actively explore MLOps, monitoring ML systems, and deploy
   background-color: white;
   color: #007acc;
   border-radius: 8px;
+  font-weight: bold;
   cursor: pointer;
   text-decoration: none;
 }
