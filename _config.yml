@@ -1,5 +1,11 @@
-title : Rizal Gibran Aldrin Pratama
-#logo: 
-#description
+title : My Portfolio - Rizal Gibran
+description: Website Portfolio of Data Science and Machine Learning
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# navigasi
+navigation: 
+  - title: Home
+    url: index
+  - title: Projects
+    url: projects
