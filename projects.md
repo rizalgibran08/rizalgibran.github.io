@@ -1,5 +1,6 @@
 ---
 layout: default
+title: My Projects
 ---
 
 # 🚀 My Projects
@@ -62,4 +63,26 @@ Methods on sentiment analysis using word embedding on deep learning algorithm RN
 
 ---
 
-[Back](./)
+<div>
+  <a href="./" class="button-custom">Back</a>
+</div>
+
+<!-- STYLE CUSTOM BUTTON -->
+<style>
+.button-custom {
+  padding: 12px 15px;
+  font-size: 14px;
+  border: 1px solid #007acc;
+  background-color: white;
+  color: #007acc;
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.button-custom:hover {
+  background-color: #007acc;
+  color: white;
+}
+</style>
