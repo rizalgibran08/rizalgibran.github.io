@@ -9,7 +9,6 @@ title: Gibran Portfolio
 <div style="text-align: center;">
   <img src="./img/myphoto.png" alt="Foto Profil" />
 </div>
-<br>
 
 I'm a Data Science, Machine Learning and AI Enthusiast from Indonesia. I enjoy solving business problems using data, building predictive models, and creating interactive data visualizations. I’m passionate about Data Science, Machine Learning, AI, and impactful data-driven solutions.
 
