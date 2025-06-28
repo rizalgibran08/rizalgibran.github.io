@@ -1,7 +1,7 @@
-title : My Portfolio - Rizal Gibran
+title : My Portfolio
 logo: /img/myphoto.png
-description: Website Portfolio of Data Science and Machine Learning
-show_downloads: true
+#description: Website Portfolio of Data Science and Machine Learning
+#show_downloads: true
 theme: jekyll-theme-minimal
 
 # navigasi
