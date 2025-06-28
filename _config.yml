@@ -1,12 +1,5 @@
 title : Rizal Gibran Aldrin Pratama
 logo: /img/myphoto.png
 description: Welcome to my portfolio website
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
-
-# navigasi
-navigation: 
-  - title: Home
-    url: index
-  - title: Projects
-    url: project
