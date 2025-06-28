@@ -60,7 +60,7 @@ Methods on sentiment analysis using word embedding on deep learning algorithm RN
 
 ---
 
-<div margin-top: 40px;>
+<div style="text-align: left; margin-top: 40px;>
   <a href="./" class="button-custom">Back</a>
 </div>
 
