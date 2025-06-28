@@ -7,7 +7,7 @@ title: Gibran Portfolio
 
 <!-- FOTO PROFIL -->
 <div style="text-align: center;">
-  <img src="/img/myphoto.png" alt="Foto Profil" />
+  <img src="./img/myphoto.png" alt="Foto Profil" />
 </div>
 <br>
 
