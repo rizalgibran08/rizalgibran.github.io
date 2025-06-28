@@ -20,11 +20,11 @@ In addition to that, I actively explore MLOps, monitoring ML systems, and deploy
 
 ### Get in touch with me
 
-<div margin-top: 25px;">
+<div style="text-align: center; margin-top: 25px;">
 
   <!-- Email -->
   <a href="mailto:gibran.aldrin.p@gmail.com" style="margin: 0 20px;" title="Email">
-    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#007acc" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="#007acc" viewBox="0 0 24 24">
       <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 
         1.1.89 2 1.99 2H20c1.1 0 
         2-.9 2-2V6c0-1.1-.9-2-2-2zm0 
@@ -34,7 +34,7 @@ In addition to that, I actively explore MLOps, monitoring ML systems, and deploy
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/rizal-gibran-aldrin-pratama/" target="_blank" style="margin: 0 20px;" title="LinkedIn">
-    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#007acc" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="#007acc" viewBox="0 0 24 24">
       <path d="M19 0h-14c-2.761 
         0-5 2.239-5 5v14c0 2.761 2.239 5 
         5 5h14c2.762 0 5-2.239 
@@ -51,7 +51,7 @@ In addition to that, I actively explore MLOps, monitoring ML systems, and deploy
 
   <!-- GitHub -->
   <a href="https://github.com/rizalgibran08" target="_blank" style="margin: 0 20px;" title="GitHub">
-    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#007acc" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="#007acc" viewBox="0 0 24 24">
       <path d="M12 0c-6.627 
         0-12 5.373-12 12 0 5.303 3.438 
         9.8 8.205 11.385.6.113.82-.258.82-.577 
