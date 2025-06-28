@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-## Hi, I'm Rizal Gibran Aldrin 👋  
-I'm a Data Science and Machine Learning Enthusiast from Indonesia. I enjoy solving business problems using data, building predictive models, and creating interactive data visualizations. I’m passionate about Data Science, Machine Learning, and impactful data-driven solutions.
+# Hi, I'm Rizal Gibran👋  
+I'm a Data Science, Machine Learning and AI Enthusiast from Indonesia. I enjoy solving business problems using data, building predictive models, and creating interactive data visualizations. I’m passionate about Data Science, Machine Learning, AI, and impactful data-driven solutions.
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 40px;">
   <a href="./projects.html" class="button-custom">View My Projects</a>
