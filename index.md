@@ -5,7 +5,11 @@ title: Gibran Portfolio
 
 # Hi, I'm Rizal Gibran Aldrin👋  
 
-![myphoto](https://github.com/user-attachments/assets/8233d399-9f06-4f2b-9164-b18af009181a)
+<!-- FOTO PROFIL -->
+<div style="text-align: center;">
+  <img src="/img/myphoto.png" alt="Foto Profil" />
+</div>
+<br>
 
 I'm a Data Science, Machine Learning and AI Enthusiast from Indonesia. I enjoy solving business problems using data, building predictive models, and creating interactive data visualizations. I’m passionate about Data Science, Machine Learning, AI, and impactful data-driven solutions.
 
