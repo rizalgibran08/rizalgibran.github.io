@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-<img src="/img/Photoroom_20250623_102218.JPEG" width="160" style="border-radius: 50%;" alt="Foto Profil"/>
-
 # Hi, I'm Rizal Gibran Aldrin 👋  
 I'm a Data Science & Machine Learning Enthusiast based in Indonesia.
 
