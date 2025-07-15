@@ -13,6 +13,8 @@ Develop a machine learning-based system to predict the credit risk of a customer
 ## Churn Prediction System (MLOps)
 Developed a full ML pipeline to predict customer churn using Random Forest classifiers. Implemented MLOps workflow using MLflow for experiment tracking and model registry. Deployed the trained model via REST API using Flask and served it with Docker containers. Built monitoring dashboard with Prometheus and Grafana to track prediction latency, request count, and model performance.
 
+<img width="300" height="256" alt="dashboard_ergeape" src="https://github.com/user-attachments/assets/b068101b-2e65-4076-8fdb-4457d62a0ddd" />
+
 🔗 [Link Project](https://github.com/rizalgibran08/churn-prediction-system)
 
 ---
@@ -20,12 +22,16 @@ Developed a full ML pipeline to predict customer churn using Random Forest class
 ## Student Dropout Dashboard and Prediction System
 Build an interactive dashboard to visually display findings and develop a machine learning solution to detect student dropout risk. 
 
+<img width="300" height="156" alt="ergeape-dashboardd" src="https://github.com/user-attachments/assets/a607d441-caa1-4fa0-ad40-7bd04c389194" />
+
 🔗 [Link Project](https://github.com/rizalgibran08/students-performance-and-dropout_dashboard-prediction)
 
 ---
 
 ## Employee Attrition & Performance
 Built a business dashboard with tableau to monitor employee attrition factors. Create machine learning models (Random Forest, SVM, XGBoost) to help the HR department.
+
+<img width="300" height="151" alt="ergeape-dashboard" src="https://github.com/user-attachments/assets/c18d9665-7ae0-4321-a25b-3f29ac6789bf" />
 
 🔗 [Link Project](https://github.com/rizalgibran08/employee-attrition-analysis)
 
