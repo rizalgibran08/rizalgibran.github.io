@@ -23,8 +23,11 @@ Developed a full ML pipeline to predict customer churn using Random Forest class
 Build an interactive dashboard to visually display findings and develop a machine learning solution to detect student dropout risk. 
 
 <img width="300" height="156" alt="ergeape-dashboardd" src="https://github.com/user-attachments/assets/a607d441-caa1-4fa0-ad40-7bd04c389194" />
+<img width="275" height="194" alt="Screenshot 2025-07-15 230027" src="https://github.com/user-attachments/assets/f8605956-1060-44ca-ab42-313ae02ae832" />
 
 🔗 [Link Project](https://github.com/rizalgibran08/students-performance-and-dropout_dashboard-prediction)
+* [Tableau](https://public.tableau.com/app/profile/aldrin.ergeape/viz/students_performance/Dashboard1)
+* [Streamlit](https://prediction-of-student-dropout.streamlit.app/)
 
 ---
 
@@ -32,8 +35,11 @@ Build an interactive dashboard to visually display findings and develop a machin
 Built a business dashboard with tableau to monitor employee attrition factors. Create machine learning models (Random Forest, SVM, XGBoost) to help the HR department.
 
 <img width="300" height="151" alt="ergeape-dashboard" src="https://github.com/user-attachments/assets/c18d9665-7ae0-4321-a25b-3f29ac6789bf" />
+<img width="282" height="170" alt="Screenshot 2025-07-15 225950" src="https://github.com/user-attachments/assets/36215faa-eec9-4ab8-9032-5b575471d73c" />
 
 🔗 [Link Project](https://github.com/rizalgibran08/employee-attrition-analysis)
+* [Tableau](https://public.tableau.com/app/profile/aldrin.ergeape/viz/HRD_17470193340890/Dashboard1)
+* [Streamlit](https://prediction-employee-attrition.streamlit.app/)
 
 ---
 
@@ -46,6 +52,8 @@ Build a recommendation system based on content-based filtering using TF-IDF and 
 
 ## Bike Sharing Analysis
 Analyze bicycle rental data and create a simple dashboard using Streamlit as a medium to convey the results of data analysis.
+
+<img width="345" height="153" alt="Screenshot 2025-07-15 225639" src="https://github.com/user-attachments/assets/7335d8d7-fe5f-4321-a9c5-3e3387578a5d" />
 
 * [Github](https://github.com/rizalgibran08/bike-analysis)
 * [Streamlit](https://bike-analysis-ergeape.streamlit.app/)
