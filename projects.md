@@ -41,7 +41,7 @@ Built a business dashboard with tableau to monitor employee attrition factors. C
 🔗 [Link Project](https://github.com/rizalgibran08/employee-attrition-analysis)
 * [Tableau](https://public.tableau.com/app/profile/aldrin.ergeape/viz/HRD_17470193340890/Dashboard1)
 * [Streamlit](https://prediction-employee-attrition.streamlit.app/)
-* [Excel](https://1drv.ms/x/c/4e45fb364fb39f66/EY04y1-nUJ5Kv3--sDNhgCgBcRmxo-XTZ_dLDICGB2oIVw?e=50eQOE)
+* [Excel](https://1drv.ms/x/c/4e45fb364fb39f66/EfcuJiow3HJGh7PtqD3OcKIBIks5mfMgr_IfpYvM-sbXlg?e=Zth2qD)
 
 ---
 
