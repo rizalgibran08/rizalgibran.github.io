@@ -36,10 +36,12 @@ Built a business dashboard with tableau to monitor employee attrition factors. C
 
 <img width="300" height="151" alt="ergeape-dashboard" src="https://github.com/user-attachments/assets/c18d9665-7ae0-4321-a25b-3f29ac6789bf" />
 <img width="282" height="170" alt="Screenshot 2025-07-15 225950" src="https://github.com/user-attachments/assets/36215faa-eec9-4ab8-9032-5b575471d73c" />
+<img width="300" height="184" alt="Screenshot 2025-07-28 201341" src="https://github.com/user-attachments/assets/476aba8b-f3c8-4793-b9e2-fa53bce8bc1a" />
 
 🔗 [Link Project](https://github.com/rizalgibran08/employee-attrition-analysis)
 * [Tableau](https://public.tableau.com/app/profile/aldrin.ergeape/viz/HRD_17470193340890/Dashboard1)
 * [Streamlit](https://prediction-employee-attrition.streamlit.app/)
+* [Excel](https://1drv.ms/x/c/4e45fb364fb39f66/EY04y1-nUJ5Kv3--sDNhgCgBcRmxo-XTZ_dLDICGB2oIVw?e=50eQOE)
 
 ---
 
